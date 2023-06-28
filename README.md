@@ -3,7 +3,7 @@ I recently had a need to pick through my hard drive to see what's eating up all 
 So I made this to play around with different ways of finding out.
 
 ## Limitations
-This really only works correctly on Windows, because I haven't taking the time to implement the same kind of syscall for other OSs.
+This really only works correctly on Windows, because I haven't taken the time to implement the same kind of syscall for other OSs.
 Tests ***will*** fail on other OSs.
 
 See [data_windows](data/data_windows.go) for details.
